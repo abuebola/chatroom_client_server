@@ -4,7 +4,6 @@
  || Purpose:  Class that handles the on-going communication between server and client
  ++-----------------------------------------------------------------------*/
 
-package server;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;

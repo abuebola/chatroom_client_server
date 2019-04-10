@@ -4,7 +4,6 @@
  || Purpose:  Main method of the chat server.
  ++-----------------------------------------------------------------------*/
 
-package server;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

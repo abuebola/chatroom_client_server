@@ -4,7 +4,6 @@
  || Purpose:  GUI of the chat server
  ++-----------------------------------------------------------------------*/
 
-package server;
 
 import javax.swing.*;
 import javax.swing.event.ListSelectionEvent;

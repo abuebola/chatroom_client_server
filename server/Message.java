@@ -4,7 +4,6 @@
  || Purpose:  Wrapper class for chat messages (sender, recipient, message)
  ++-----------------------------------------------------------------------*/
 
-package server;
 
 public class Message {
 
